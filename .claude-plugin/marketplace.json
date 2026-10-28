@@ -1,0 +1,17 @@
+{
+  "name": "anycrm",
+  "owner": {
+    "name": "KVLK Studio",
+    "url": "https://anycrm.io"
+  },
+  "metadata": {
+    "description": "anyCRM for Claude Code: clients, appointments, orders, stock, finances and the rest of your CRM."
+  },
+  "plugins": [
+    {
+      "name": "anycrm",
+      "source": "./claude-code",
+      "description": "Work with your anyCRM: clients, calendar, orders, products and stock, finances, taxes and integrations."
+    }
+  ]
+}

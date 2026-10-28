@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.anycrm/anycrm",
+  "title": "anyCRM",
+  "description": "A CRM for small business: clients, appointments, orders, stock, finances, taxes and integrations.",
+  "version": "1.0.0",
+  "websiteUrl": "https://anycrm.io",
+  "repository": {
+    "url": "https://github.com/kvlkstudio/anycrm-ai-plugins",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.anycrm.io"
+    }
+  ]
+}

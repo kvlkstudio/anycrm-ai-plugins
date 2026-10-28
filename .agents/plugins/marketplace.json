@@ -1,0 +1,12 @@
+{
+  "name": "anycrm",
+  "interface": { "displayName": "anyCRM" },
+  "plugins": [
+    {
+      "name": "anycrm",
+      "source": { "source": "local", "path": "./codex" },
+      "policy": { "installation": "AVAILABLE" },
+      "category": "Productivity"
+    }
+  ]
+}

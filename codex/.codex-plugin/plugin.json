@@ -1,0 +1,14 @@
+{
+  "name": "anycrm",
+  "version": "1.0.0",
+  "description": "Work with your anyCRM: clients, calendar, orders, products and stock, finances, taxes and integrations.",
+  "author": { "name": "KVLK Studio", "url": "https://anycrm.io" },
+  "homepage": "https://anycrm.io",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "anyCRM",
+    "shortDescription": "Your CRM from Codex",
+    "category": "Productivity"
+  }
+}

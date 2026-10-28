@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "anycrm": { "type": "http", "url": "https://mcp.anycrm.io" }
+  }
+}
